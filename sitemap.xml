@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<url>
+  <loc>http://smartgrid.ashleyslab.co/</loc>
+  <lastmod>2015-12-03T14:28:35+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://smartgrid.ashleyslab.co/rationeler_energiegebruik.htm</loc>
+  <lastmod>2015-12-03T14:28:35+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://smartgrid.ashleyslab.co/decentrale_productie.htm</loc>
+  <lastmod>2015-12-03T14:28:34+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://smartgrid.ashleyslab.co/Smart-Grid.htm</loc>
+  <lastmod>2015-12-03T14:28:34+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://smartgrid.ashleyslab.co/Slimme_Meters.htm</loc>
+  <lastmod>2015-12-03T14:28:33+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://smartgrid.ashleyslab.co/Super_en_microgrids.htm</loc>
+  <lastmod>2015-12-03T14:28:34+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://smartgrid.ashleyslab.co/Energie_Oplsag.htm</loc>
+  <lastmod>2015-12-03T14:28:33+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://smartgrid.ashleyslab.co/definities.htm</loc>
+  <lastmod>2015-12-03T14:28:35+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://smartgrid.ashleyslab.co/Video_Zone.htm</loc>
+  <lastmod>2015-12-03T14:28:34+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://smartgrid.ashleyslab.co/links.htm</loc>
+  <lastmod>2015-12-03T14:28:35+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://smartgrid.ashleyslab.co/index.htm</loc>
+  <lastmod>2015-12-03T14:28:35+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+</urlset>
